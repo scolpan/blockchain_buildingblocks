@@ -1,6 +1,5 @@
 
-# Blockchain Building Blocks
-## Private chain setup via GETH
+# Private ethereum chain setup via GETH
 
 ### Ethereum network setup steps
 
